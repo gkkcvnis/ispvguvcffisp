@@ -1,6 +1,6 @@
 
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IptvBangladesh" tvg-logo=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEUAAAD///92dnaTk5PX19fq6uqYmJjk5OQFBQXAwMDt7e0WFhZlZWWysrL6+vqJiYnJyclubm5xcXH09PSsrKy4uLhGRkbe3t47OztQUFCgoKApKSkuLi4cHBxLS0tVVVVAQECBgYEiIiKFhYU0NDTQ0NBhYWEQEBCsiIsMAAAHCklEQVR4nO2d63qyOBRGQcFTFQ+AKJ5t1fu/wxH3TgjQaSXDtvLMu/58EJDJMiHJTmLHcQAAAAAAAAAAAAAAAAAAAAAAAAAAAACgzGDovRPJuHnDvvtWdGAIQxj+OWKGw27vj+mGsoaLxh9cG1/WsPkH1waGtsDwdcDQFhi+DhjaAsPXAUNbYPg6YGgLDF+HlOGNHnxq/MG1kTJ01tfD4XDdNv/guogZvg0wbD8wbD8wbD8wbD8wbD8wtGeZen2/f4nyXRDbzmKx6Kzp5JidLBZX86xzFciHmGEUuMwoPVPS+HEa08mWr6+yE461RJYbpQxnrsEHpZHhhO9Y0LVhdhzRcdR4Nhwxw6kpmHJi0dAZ6kJc01G/6Vw8EDLkKhhk/wY3TiwZ8k0zx+kbFbZxZAy5UKaO85UGqggrhmMW6+m7JZAx7KrSubM8q9SyIdfTJDDubh4Zw/TxVK+UWjHcjfKXNdw1nAeFZBm6w30htWKo2tOMecNZ0MgY7lW+++kyT60aqva0lNooQm2psefropvIbwx33NX3B03nQCNkuAxyRf30bwydmG5Jq49oCqkxzTIxFA+U9o3hqXSLAHIj7/kwVNlPKKVqeNRFLVdNJaOnc8fj/NOopmqorks2NcLx4dSsgxXDyKjJbvN7zQkpQw4nuFGl3P/LqG1I44Og8TwQQobzkALdAb2L1CmWDG/0EoaOQ0MboWGbkOH9scN71TxfqJgosWTo6Ro8p6PPpnOhstK44SDvBLgeUnrRkOom9YQULwci4ZNMGYZFwy9KLRhe6RKNzleBcdIwIobLouF3Y5oz/YdDLjYOEXvN5uOBTBmeo9wx/8kRvW40E8UvqF7n54GsQJch1VucO7Hnj3wvNqKi7WJ+59HIbh6H81xo9UhYCAzeJHv8wYdcxPA8mPNuPzB8BwbHw/W6t918JGXYG5ahMH48M5LGlZvj7rr8pPGQepLQ633Z5ETK8OKWoVWXwnS/mgMuLHJcCmO3gxFCumFk0Ti/ZGUmgyOH3w3dwJiD7JWe4tcfur7KUI2qnzB0ff2UtPw9WYzOX1VL1WRawbDLiWQ48tWsjTI/VQQf4WQ9pAwPc4aiW71wRoaT8eOaKg8yvB+MaTh7oeStGtwmabcbq5NhzZxI9xb8IukB6LRQSAwZbhw1zc/fx4Q+O+IPq1mdSmv7M8KGq/K60i+GtPZNL+KOSm20KX5WLZM/i7AhtyF6ge03w7VRhjy3YexeoFUO36mFrCFn0ghsp9yoPFCJZJhNz12MV41qpRn376lGFFe0fkPWcFT50gttqUokwyiNeT2RYkoqsbT6vHphsqhhWqlnPxlqZmZqYQKOFkPq7UmRNFy5Rp1jnjBULcmwXMNVbustpkoa0ksVbMw0MgwIlWgaRnpJNa58Pxt6D+tNdQgadijL3UIiGXbP2zs6VCBD+kLyXUOf9HljfZ861/Ds1EHOkJd3k2LqD70FD2H09NtX4a10dFN6qZcPOUMegpQ24/1guONC12PrS/E9vnJLWzOzYob7YrOh+LHHp39158LT4q7f2+/Oc7WpoVQpfkXMkCPXQME9t9nSlKKnjfMVFBuXWLc/xraAulOqUoYntwR/9T/Ehxt9VTdOXvkpFnvDhAxvYTlnTxmqV0+XU0Vx6tSdyBAyjMs5e9KQd6nk8URhIdz1LTYRyxgew1EZbvRP5hXVMcRZYviw6j2uh3kDtZqozW9BYrV7UcZwt/uoQFcG5hVV4W7ZCffsdP1s1MWP6zSK47SzdKxow4zwfwOG7QeG7QeG1uTDx6z95x8k3D6y/oLTB3nkl3UWN3V4M3uW/J7VzbFCbF+br7qvYxiOAo5r0/vI5qRC+2uYh8BhqH604Iej0FM33JP5jm2iZ4ZrImX4qYP1c2fmnrhEozAbk/OFcR4JJl7nxFPZndTtLdQN3Y4e9gTrmd1uGylDP8gnG3p6yikKt5vud4az1V4NRZfukY+u7nyvasIksN1qI2S4cA+B/spTNz/K4BPDMAsh1O1rV1ldjZvvt4T1ZoIVUnv1g2g0UiepUYbHlVGG+j1Mhs5Z7Ug1Ddcf+azT0bf75ZeM4dXt9/v6qaZh4T00DTWm4VGn9iMnGlltQJIxTLJo0FMTLoZhkLVBfDK+fw3cAiVB0leBfW54vyFR5Ra7F8ufJ4oY3iZZpHqIufGY66zN713CQW0wXU4iNf3bjaKJmsn+mqh9Jcf7Dfqj6aw48fo0GNO0Hxi2Hxi2Hxi2Hxi2Hxi2H7G/7tmLMuR+3vs0YoZvUznwF1ptgeHrgKEtMHwdMLQFhq8DhrbA8HXA0BYYvg4Y2sKGYn9J73mEDft//b869rxA1vBtgCEM/5eG/l87FREw/Oy+Ez3LbfAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8z/kHKGFkciwN598AAAAASUVORK5CYII= " group-title="IptvBangladesh",IptvBangladesh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IptvBangladesh" tvg-logo=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAeFBMVEUAAAD///92dnaTk5PX19fq6uqYmJjk5OQFBQXAwMDt7e0WFhZlZWWysrL6+vqJiYnJyclubm5xcXH09PSsrKy4uLhGRkbe3t47OztQUFCgoKApKSkuLi4cHBxLS0tVVVVAQECBgYEiIiKFhYU0NDTQ0NBhYWEQEBCsiIsMAAAHCklEQVR4nO2d63qyOBRGQcFTFQ+AKJ5t1fu/wxH3TgjQaSXDtvLMu/58EJDJMiHJTmLHcQAAAAAAAAAAAAAAAAAAAAAAAAAAAACgzGDovRPJuHnDvvtWdGAIQxj+OWKGw27vj+mGsoaLxh9cG1/WsPkH1waGtsDwdcDQFhi+DhjaAsPXAUNbYPg6YGgLDF+HlOGNHnxq/MG1kTJ01tfD4XDdNv/guogZvg0wbD8wbD8wbD8wbD8wbD8wtGeZen2/f4nyXRDbzmKx6Kzp5JidLBZX86xzFciHmGEUuMwoPVPS+HEa08mWr6+yE461RJYbpQxnrsEHpZHhhO9Y0LVhdhzRcdR4Nhwxw6kpmHJi0dAZ6kJc01G/6Vw8EDLkKhhk/wY3TiwZ8k0zx+kbFbZxZAy5UKaO85UGqggrhmMW6+m7JZAx7KrSubM8q9SyIdfTJDDubh4Zw/TxVK+UWjHcjfKXNdw1nAeFZBm6w30htWKo2tOMecNZ0MgY7lW+++kyT60aqva0lNooQm2psefropvIbwx33NX3B03nQCNkuAxyRf30bwydmG5Jq49oCqkxzTIxFA+U9o3hqXSLAHIj7/kwVNlPKKVqeNRFLVdNJaOnc8fj/NOopmqorks2NcLx4dSsgxXDyKjJbvN7zQkpQw4nuFGl3P/LqG1I44Og8TwQQobzkALdAb2L1CmWDG/0EoaOQ0MboWGbkOH9scN71TxfqJgosWTo6Ro8p6PPpnOhstK44SDvBLgeUnrRkOom9YQULwci4ZNMGYZFwy9KLRhe6RKNzleBcdIwIobLouF3Y5oz/YdDLjYOEXvN5uOBTBmeo9wx/8kRvW40E8UvqF7n54GsQJch1VucO7Hnj3wvNqKi7WJ+59HIbh6H81xo9UhYCAzeJHv8wYdcxPA8mPNuPzB8BwbHw/W6t918JGXYG5ahMH48M5LGlZvj7rr8pPGQepLQ633Z5ETK8OKWoVWXwnS/mgMuLHJcCmO3gxFCumFk0Ti/ZGUmgyOH3w3dwJiD7JWe4tcfur7KUI2qnzB0ff2UtPw9WYzOX1VL1WRawbDLiWQ48tWsjTI/VQQf4WQ9pAwPc4aiW71wRoaT8eOaKg8yvB+MaTh7oeStGtwmabcbq5NhzZxI9xb8IukB6LRQSAwZbhw1zc/fx4Q+O+IPq1mdSmv7M8KGq/K60i+GtPZNL+KOSm20KX5WLZM/i7AhtyF6ge03w7VRhjy3YexeoFUO36mFrCFn0ghsp9yoPFCJZJhNz12MV41qpRn376lGFFe0fkPWcFT50gttqUokwyiNeT2RYkoqsbT6vHphsqhhWqlnPxlqZmZqYQKOFkPq7UmRNFy5Rp1jnjBULcmwXMNVbustpkoa0ksVbMw0MgwIlWgaRnpJNa58Pxt6D+tNdQgadijL3UIiGXbP2zs6VCBD+kLyXUOf9HljfZ861/Ds1EHOkJd3k2LqD70FD2H09NtX4a10dFN6qZcPOUMegpQ24/1guONC12PrS/E9vnJLWzOzYob7YrOh+LHHp39158LT4q7f2+/Oc7WpoVQpfkXMkCPXQME9t9nSlKKnjfMVFBuXWLc/xraAulOqUoYntwR/9T/Ehxt9VTdOXvkpFnvDhAxvYTlnTxmqV0+XU0Vx6tSdyBAyjMs5e9KQd6nk8URhIdz1LTYRyxgew1EZbvRP5hXVMcRZYviw6j2uh3kDtZqozW9BYrV7UcZwt/uoQFcG5hVV4W7ZCffsdP1s1MWP6zSK47SzdKxow4zwfwOG7QeG7QeG1uTDx6z95x8k3D6y/oLTB3nkl3UWN3V4M3uW/J7VzbFCbF+br7qvYxiOAo5r0/vI5qRC+2uYh8BhqH604Iej0FM33JP5jm2iZ4ZrImX4qYP1c2fmnrhEozAbk/OFcR4JJl7nxFPZndTtLdQN3Y4e9gTrmd1uGylDP8gnG3p6yikKt5vud4az1V4NRZfukY+u7nyvasIksN1qI2S4cA+B/spTNz/K4BPDMAsh1O1rV1ldjZvvt4T1ZoIVUnv1g2g0UiepUYbHlVGG+j1Mhs5Z7Ug1Ddcf+azT0bf75ZeM4dXt9/v6qaZh4T00DTWm4VGn9iMnGlltQJIxTLJo0FMTLoZhkLVBfDK+fw3cAiVB0leBfW54vyFR5Ra7F8ufJ4oY3iZZpHqIufGY66zN713CQW0wXU4iNf3bjaKJmsn+mqh9Jcf7Dfqj6aw48fo0GNO0Hxi2Hxi2Hxi2Hxi2Hxi2H7G/7tmLMuR+3vs0YoZvUznwF1ptgeHrgKEtMHwdMLQFhq8DhrbA8HXA0BYYvg4Y2sKGYn9J73mEDft//b869rxA1vBtgCEM/5eG/l87FREw/Oy+Ez3LbfAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8z/kHKGFkciwN598AAAAASUVORK5CYII= " group-title="HotLingNetwork",Hot Ling Network 
 https://youtu.be/n5WnMJ0J6qA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
 http://tv.pmcon.net/hls/stream17.m3u8
@@ -27,12 +27,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",Sa Tv
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla", Ekattor TV
-http://178.62.107.180/woh/index.m3u8?id=51029
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla", Ekattor Tv Hd
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",EKATTOR TV HD 3
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png " group-title="Bangla",Channel i
@@ -43,14 +38,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/4/43/%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/280px-%E0%A6%86%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg " group-title="Bangla",Ananda tv
 #EXTINF:-1 tvg-logo="http://103.109.56.114/content/uploads/channels/DEEPTO%20TV%20LOGO.jpg" group-title="Bangla",Deepto Tv HD
-https://cdn.naturalbd.com/j-DeeptoTV/tracks-v1a1/mono.m3u8?token=4212aea1b59330e0d52400cca92f0d9c96f05ed2-66bc16ecfd457fb90f1b7acca22ad9ac-1625780245-1625769445
-http://103.106.243.163:8181//6/index.m3u8?token=5d2a5a1ed1022cda7d840f5d93aa7a47bee86605-c97c0d2d3ba50941af46d883cb03c827-1624835804-1624825004&remote=103.151.59.102
-http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
-http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://103.109.56.114/content/uploads/channels/DEEPTO%20TV%20LOGO.jpg" group-title="Bangla",Deepto Tv HD 2
-
-http://103.213.238.70:80/DeeptoTV/tracks-v1a1/mono.m3u8
-
+http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png " group-title="Bangla",ATN bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhitv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png " group-title="Bangla",Boishakhi tv
@@ -76,8 +64,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",Btv 
 http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/s1600/desh-tv-2.jpg" group-title="Bangla", Desh Tv
-http://178.62.107.180/woh/index.m3u8?id=51046
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png group-title=”Bangladesh”, Peacetv Bangla
+http://173.199.116.220/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71bangla hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png " group-title="Bangla",71bangla hd
 http://iptvbd.jagobd.com:1931/boishakhi/71bangla.stream/chunks.m3u8
@@ -124,11 +112,11 @@ http://103.81.104.118/hls/stream27.m3u8
 http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://tinyurl.com/y3auavyd",Star Jalsha Hd2
-http://103.106.243.163:8181//19/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath 
 http://209.126.120.151/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath 
 
+https://jio.instream.ml/jio.php?c=Sony_aath&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Bangla ", Nick Bangla
 https://jio.instream.ml/jio.php?c=Nick_Bangla&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="Indian Bangla",Colors Bangla HD
@@ -164,8 +152,13 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Indian",Colors HD
 https://jio.instream.ml/jio.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="India",Sony Max
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Indian",Sony MAX2
+http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Indian",Sony MAX2
+
+
 https://jio.instream.ml/jio.php?c=Sony_MAX2&q=800&e=.m3u8
 
 
